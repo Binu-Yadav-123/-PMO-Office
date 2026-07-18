@@ -1,4 +1,6 @@
-# Inventory Log
+- Keyboard
+- Mouse
+- External Hard Disk# Inventory Log
 
 ## Available Assets
 
